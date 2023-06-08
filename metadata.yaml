@@ -1,0 +1,36 @@
+_repo: The-story-of-Eros-Psyche-retold-from-Apuleius-b-together-with-some-early-verses_70802
+_version: 0.0.1
+alternative_title: 'The story of Eros and Psyche (retold from Apuleius) :  together
+  with some early verses'
+creator:
+  author:
+    agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Carpenter
+description: ''
+gutenberg_issued: '2023-05-19'
+identifiers:
+  gutenberg: '70802'
+  lccn: '25008931'
+language: en
+pgterms:marc904: https://archive.org/details/storyoferospsych00carpuoft/mode/2up
+pgterms:marc905: 20221226064435carpenter
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGeorge Allen & Unwin Ltd., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Apuleius. Psyche et Cupido -- Adaptations'
+- !lcc 'PR'
+- GITenberg
+title: 'The story of Eros & Psyche (retold from Apuleius) : $b together with some
+  early verses'
+url: http://www.gutenberg.org/ebooks/70802
